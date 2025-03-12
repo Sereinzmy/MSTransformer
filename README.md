@@ -15,11 +15,11 @@ As shown in Figure , which is based on real data from ETTh2 (a detailed descript
 
 The multiscale approach employed in the model allows for the extraction of feature information from multiple scales, enabling a more comprehensive capture of the underlying structure and patterns within the data. 
 
-![Analyse](./pic/Efficiency Analysis.png)
+![Analyse](./pic/Efficiency_Analysis.png)
 
 To thoroughly demonstrate the effectiveness of MSTransformer, we conduct a comparative analysis against representative baseline models specifically on the ETTh1 dataset.
 
-![Analyse](./pic/Attention heatmap.png)
+![Analyse](./pic/Attention_heatmap.png)
 
 Through a comparative analysis, we have discerned certain variations in attention score values across different calculation methods, suggesting that a more fine-grained approach facilitates more precise attention allocation during the computation process.
 ## Acknowledgement
